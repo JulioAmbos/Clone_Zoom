@@ -18,9 +18,6 @@
 ## Sobre
 É uma cópia do aplicativo zoom, utilizado para chamadas de vídeo.
 
-## Versão online
-
-https://zoom-clone-julio.herokuapp.com/pages/home/
 
 ## :computer: Tecnologias
 
@@ -47,7 +44,7 @@ https://zoom-clone-julio.herokuapp.com/pages/home/
   - É preciso ter um editor de texto.  
 
   
-### Passo a passo
+### :pencil: Passo a passo
 1. Fazer o clone deste repositorio :
 ````
 $ git clone https://github.com/Aline595/clone-zoom.git
