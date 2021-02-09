@@ -43,7 +43,7 @@
   - É preciso ter um gerenciador de pacotes instalado ou NPM ou Yarn
   - É preciso ter um editor de texto.  
 
-  
+ 
 ### :pencil: Passo a passo
 1. Fazer o clone deste repositorio :
 ````
