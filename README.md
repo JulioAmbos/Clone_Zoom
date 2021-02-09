@@ -20,7 +20,7 @@
 
 ## Versão online
 
-https://zoom-clone-aline.herokuapp.com/pages/home/
+https://zoom-clone-julio.herokuapp.com/pages/home/
 
 ## :computer: Tecnologias
 
