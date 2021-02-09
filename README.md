@@ -33,7 +33,7 @@
 ## :camera: Imagens
 ![home](https://github.com/JulioAmbos/clone_zoom/blob/main/public/prints/home.png)
 
-![room](https://github.com/JulioAmbos/clone-zoom/blob/master/public/prints/room.png)
+![room](https://github.com/JulioAmbos/clone_zoom/blob/main/public/prints/room.png)
 
 ## Como utilizar
 
