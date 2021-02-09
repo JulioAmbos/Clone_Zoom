@@ -38,9 +38,9 @@ https://zoom-clone-aline.herokuapp.com/pages/home/
 4. Gravar reunião.    
 
 ## :camera: Imagens
-![home](https://github.com/Aline595/clone-zoom/blob/master/public/prints/home.png)
+![home](https://github.com/JulioAmbos/clone_zoom/blob/main/public/prints/home.png)
 
-![room](https://github.com/Aline595/clone-zoom/blob/master/public/prints/room.png)
+![room](https://github.com/JulioAmbos/clone-zoom/blob/master/public/prints/room.png)
 
 ## Como utilizar
 
