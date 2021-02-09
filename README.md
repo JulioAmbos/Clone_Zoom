@@ -87,5 +87,4 @@ http://localhost:8080
 - Layout da home foi baseada no codepen do [Nelson Adonis Hernandez
 ](https://codepen.io/nelsonher019/pen/eYZBqOm)
 - Layout da room foi adaptado a partir do repo
-- Projeto desenvolvido durante a semana de JS superior.
-
+- Projeto desenvolvido durante a semana de JS expert, pelo professor Erick Wendel.
