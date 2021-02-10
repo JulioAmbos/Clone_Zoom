@@ -7,6 +7,7 @@
  Clone Zoom
 </h1>
 <h3 align="center">
+  <a href="#finalidade">Finalidade</a>&nbsp;|&nbsp;
   <a href="#sobre">Sobre</a>&nbsp;|&nbsp;
   <a href="#computer-tecnologias">Tecnologias</a>&nbsp;|&nbsp;
   <a href="#funcionalidades">Funcionalidades</a>&nbsp;|&nbsp;
