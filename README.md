@@ -18,6 +18,8 @@
 ## Sobre
 É uma cópia do aplicativo zoom, utilizado para chamadas de vídeo.
 
+## Finalidade
+Estudo e aplicação de novas técnicas.
 
 ## :computer: Tecnologias
 
